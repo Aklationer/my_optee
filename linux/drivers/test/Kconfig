@@ -1,0 +1,4 @@
+config TEST
+    tristate "My Test Module"
+	default m
+    
